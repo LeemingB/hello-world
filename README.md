@@ -1,2 +1,2 @@
 # hello-world
-test repo
+Made some minor changes
